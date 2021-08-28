@@ -64,6 +64,8 @@ const Phone = () => {
          <div className='innerdata'>
           <img src={a.img} alt="" />
           <div className="desc">{a.desc}</div>
+          <h6>${a.price}</h6>
+
           <a href="/shopcard"><Button variant="danger">Buy</Button></a>
       
           </div>

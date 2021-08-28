@@ -214,10 +214,12 @@ img:hover{
 opacity: 10px;
 
 }
-.slick-prev{
+.slick-prev,.slick-prev:focus,.slick-prev:hover{
   background-color: black;
+  color: black;
+  height: 50px;
 }
-.slick-next{
+.slick-next,.slick-next:focus,.slick-next:hover{
   background-color: black;
   color: black;
   height: 50px;

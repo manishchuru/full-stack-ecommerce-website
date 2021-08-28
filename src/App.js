@@ -37,17 +37,17 @@ const App = () => {
       <div className="footer">
        <div className="container">
        <div className="row social-media">
-       <div className="col-2">
+       <div className=" col-3 ">
          <h6> About</h6>
          <p><FcContacts/> contectus</p>
          <p><FcAbout/> aboutus</p>
        </div>
-       <div className="col-2">
+       <div className="col-3 ">
          <h6> Help</h6>
          <p><MdPayment/> payments</p>
          <p><FcShipped/> shipping</p>
        </div>
-       <div className="col-2">
+       <div className="col-4 ">
        <h6> Social</h6>
        <p><AiFillInstagram/> Instagram</p>
        <p><TiSocialFacebook/> facewook</p>

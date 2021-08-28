@@ -24,8 +24,7 @@ const Home = () => {
         </CartProvider>
         </Router> 
         <Grocery/>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. A dolorum beatae distinctio veritatis id! Excepturi suscipit nostrum earum deserunt fuga nisi. Consectetur tempore quis ut recusandae. Perferendis delectus deleniti impedit nobis repellat sint quia eligendi tempora libero vero excepturi asperiores aliquam, voluptatibus odit tenetur at ab, consectetur eveniet! Animi magnam velit tempore. Ad facere nisi iure perspiciatis repellendus earum harum corporis neque unde rerum accusamus veniam in quisquam ducimus quis magni quam quibusdam doloribus minus, maxime omnis eos et quas. Commodi maiores reprehenderit animi tempora soluta corrupti nobis quos quaerat cupiditate consequatur culpa, doloremque adipisci. Magnam nesciunt asperiores sunt dolorem?
-        </div>
+       </div>
     );
 }
 

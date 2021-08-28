@@ -3,6 +3,7 @@ const Phoneapi =[
         id:1,
         img:'https://thumbs.dreamstime.com/b/smartphone-cell-phone-27377846.jpg',
          desc:"Upto 40% off",
+         price:230,
         alt:"images",
     },
     {
@@ -10,6 +11,7 @@ const Phoneapi =[
         img:'https://m.media-amazon.com/images/I/51PuFBgBK4L._FMwebp__.jpg',
         title:"",
         desc:"Upto 15% off",
+        price:720,
         alt:"images",
     },
     {
@@ -18,6 +20,7 @@ const Phoneapi =[
         desc:"Upto 60% off",
         title:"",
         alt:"images",
+        price:420,
     },
     {
         id:1,
@@ -25,6 +28,7 @@ const Phoneapi =[
         title:"",
         desc:"Upto 70% off",
         alt:"images",
+        price:250,
     },
     {
         id:2,
@@ -32,6 +36,7 @@ const Phoneapi =[
         title:"",
         desc:"Upto 60% off",
         alt:"images",
+        price:540,
     },
     {
         id:3,
@@ -39,6 +44,7 @@ const Phoneapi =[
         title:"",
         desc:"Upto 30% off",
         alt:"images",
+        price:230,
     }, 
     
 ]

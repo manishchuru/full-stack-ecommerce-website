@@ -3,6 +3,7 @@
      height: 300px;
      color: black;
      margin: 0%;
+     margin-top: 100px ;
      padding-top: 40px;
 }
 
@@ -15,15 +16,15 @@ font-family: 'Open Sans', sans-serif;
       
          height: 300px;
          padding: 10px;
-         font-size: 6px;
+         font-size: 10px;
     }  
 }
 
 @media screen and (max-width:370px){
     .footer{
       
-         height: 300px;
+         height: 200px;
          
-         font-size: 5px;
+         font-size: 13px;
     }  
 }
