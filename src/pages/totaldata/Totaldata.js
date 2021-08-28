@@ -1,0 +1,40 @@
+const Totaldata =[
+    {
+        id:1,
+        img:'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+        title:"",
+        alt:"images",
+    },
+    {
+        id:2,
+        img:'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+        title:"",
+        alt:"images",
+    },
+    {
+        id:3,
+        img:'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+        title:"",
+        alt:"images",
+    },
+    {
+        id:1,
+        img:'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+        title:"",
+        alt:"images",
+    },
+    {
+        id:2,
+        img:'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+        title:"",
+        alt:"images",
+    },
+    {
+        id:3,
+        img:'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+        title:"",
+        alt:"images",
+    }, 
+    
+]
+export default Totaldata;

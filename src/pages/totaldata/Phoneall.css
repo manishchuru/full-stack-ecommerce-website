@@ -1,0 +1,82 @@
+.card{
+    float: left;
+   margin: 10px;
+   width: 16rem;
+}
+.card img{
+    width: 220px;
+    height: 280px;
+    margin-top: 10px;
+   padding-left:10px;
+}
+.allphones{
+    margin-bottom: 1500px;
+    padding: 20px;
+
+}
+
+@media screen and (max-width:1449px){
+    .allphones{
+        margin-bottom: 1700px;
+    }
+    
+}
+
+
+
+@media screen and (max-width:495px){
+    .card{
+        float: left;
+       margin: 5px;
+       width: 10rem;
+    }
+    .allphones{
+        margin-bottom: 500px;
+        padding: 5px;
+    
+    }
+}
+@media screen and (max-width:868px){
+    .card{
+        float: left;
+       margin: 5px;
+       width: 10rem;
+      
+    }
+    .card img{
+        width: 10rem;
+        height: 200px;
+        margin-top: 10px;
+       padding-left:10px;
+    }
+    .allphones{
+        margin-bottom: 500px;
+        padding: 5px;
+        margin-bottom: 2200px;
+    
+    }
+}
+@media screen and (max-width:520px){
+    .allphones{
+      
+        padding: 5px;
+        margin-bottom: 3500px;
+    
+    }
+}
+
+
+@media screen and (max-width:350px){
+    .allphones{
+        margin-bottom: 500px;
+        padding: 0px;
+        margin-bottom: 100px;
+    
+    }
+    .card{
+        float: none;
+       margin: 10px;
+       width: 10rem;
+       height: 30rem;
+    }
+}

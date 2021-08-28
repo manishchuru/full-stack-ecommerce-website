@@ -1,0 +1,65 @@
+.header{
+    background-color: white;
+    padding: 0px;
+    padding-bottom: 3px;
+    padding-left: 40px;
+    color: red;
+}
+.allspan{
+    font-size: 15px;
+}
+.secondimage{
+    margin-left: 100px;
+}
+
+.cloth{
+    margin-left: 93px;  
+}
+.header img{
+    width: 50px;
+    height: 60px;
+}
+.header h6{
+    margin-left: 3px;
+}
+
+@media screen and (max-width:776px) {
+    .header{
+        background-color: seashell;
+        padding: 4px;
+        padding-left: 20px;
+        color: red;
+    }
+    .secondimage{
+        margin-left: 40px;
+    }
+    .cloth{
+        margin-left: 33px;  
+    }
+}
+
+@media screen and (max-width:500px) {
+    .header{
+        background-color: seashell;
+        padding: 4px;
+        padding-left: 20px;
+        color: red;
+    }
+    .allspan{
+        font-size: 10px;
+    }
+    .secondimage{
+        margin-left: 30px;
+    }
+    .cloth{
+        margin-left: 22px;  
+    }
+    .header img{
+        width: 30px;
+        height: 40px;
+    }
+}
+.imagetext a{
+   text-decoration: none;
+   color: red;
+}

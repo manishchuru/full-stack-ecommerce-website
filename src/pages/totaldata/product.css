@@ -1,0 +1,121 @@
+.card{
+    float: left;
+   margin: 10px;
+   width: 16rem;
+}
+.card img{
+    width: 220px;
+    height: 280px;
+    margin-top: 10px;
+  
+}
+.allphones{
+    margin-bottom: 1400px;
+    padding: 20px;
+
+}
+
+@media screen and (max-width:1449px){
+    .allphones{
+        margin-bottom: 1800px;
+    }
+    
+}
+@media screen and (max-width:300px) {
+    .allphones{
+        margin-bottom: 500px;
+        padding: 0px;
+        margin-bottom:2000px;
+    }
+
+}
+
+
+@media screen and (max-width:495px){
+    .card{
+        float: left;
+       margin: 5px;
+       width: 10rem;
+    }
+    .allphones{
+        margin-bottom: 500px;
+        padding: 5px;
+    
+    }
+}
+
+@media screen and (max-width:520px){
+    .allphones{
+        margin-bottom: 500px;
+        padding: 5px;
+        margin-bottom: 1700px;
+    
+    }
+}
+
+
+@media screen and (max-width:350px){
+    .allphones{
+        margin-bottom: 500px;
+        padding: 0px;
+        margin-bottom: 100px;
+    
+    }
+    .card{
+        float: none;
+       margin: 10px;
+       width: 10rem;
+       
+    }
+}
+@media screen and (max-width:868px){
+    .card{
+        float: left;
+       margin: 5px;
+       width: 10rem;
+       height: 40rem;
+    }
+   
+    .card img{
+        width: 9rem;
+        height: 280px;
+        margin-top: 10px;
+      
+    }
+    .allphones{
+      
+        padding: 5px;
+        margin-bottom: 1400px;
+    
+    }
+}
+@media screen and (max-width:860px){
+    .allphones{
+     
+        padding: 5px;
+        margin-bottom: 2200px;
+    
+    }    
+}
+@media screen and (max-width:520px) {
+    .allphones{
+        
+        padding: 5px;
+        margin-bottom: 3500px;
+    
+    }
+}
+@media screen and (max-width:350px) {
+    .allphones{
+        
+        padding: 5px;
+        margin-bottom: 6000px;
+    
+    }
+}
+
+
+.pages{
+background-color: lightgrey;
+color:lightgrey ;
+}

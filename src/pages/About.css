@@ -1,0 +1,29 @@
+.footer{
+    background-color: lightseagreen;
+     height: 300px;
+     color: black;
+     margin: 0%;
+     padding-top: 40px;
+}
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+@media screen and (max-width:580px){
+    .footer{
+      
+         height: 300px;
+         padding: 10px;
+         font-size: 6px;
+    }  
+}
+
+@media screen and (max-width:370px){
+    .footer{
+      
+         height: 300px;
+         
+         font-size: 5px;
+    }  
+}
